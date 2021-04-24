@@ -1,3 +1,6 @@
+# Support me and use code `01SE1X` on Salad.io
+
+
 ## [COMMON BUGS](https://github.com/Walker21390/SaladCLI_Plus/blob/main/CommonBugs.md)
 
 ### Salad CLI+

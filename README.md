@@ -1,4 +1,4 @@
-# Support me and use code `01SE1X` on Salad.io
+# Support me and use code `01SE1X` on Salad.io!
 
 
 ## [COMMON BUGS](https://github.com/Walker21390/SaladCLI_Plus/blob/main/CommonBugs.md)
@@ -9,25 +9,24 @@
 
 # Info
 
-![](https://images-ext-1.discordapp.net/external/yqIjShhLc2LS-3pWSlAm90wKf18MTOzYfG37L_IV2_o/https/i.imgur.com/6cnWZhQ.png)
+![](https://walkyltd.xyz/assets/Salad-Cli+.png)
 
-Salad CLI+ is basically [salad](https://github.com/SaladTechnologies/salad-applications "salad"), but in your terminal!
+Salad CLI+ increases your [salad](https://github.com/SaladTechnologies/salad-applications "salad") earnings by using different pools and optimzation scripts!
 
 Salad: https://github.com/SaladTechnologies/salad-applications
 
 
 # How to install Salad CLI+
 
-1. Download the [latest release](https://github.com/Walker21390/SaladCLI/releases "latest release") of Salad CLI+
-2. Unzip the **Salad CLI.zip** file
-3. Rename **example-config.json** to **config.json**
-4. Put your Salad AUTH code in **config.json**
-5. Put your Salad Wallet in **config.json**
-6. Run **Setup.py** with [Python](https://www.python.org "Python")
-7. Run **Start.py** with [Python](https://www.python.org "Python")
+1. Download the [latest release](https://github.com/Walker21390/SaladCLI/releases "latest release") of Salad CLI+.
+2. Unzip the **Salad CLI.zip** file.
+3. Rename **example-config.json** to **config.json**.
+4. Replace "Your AUTH here" with your AUTH code code in **config.json**.
+5. Replace "Your Wallet here" with your Salad Wallet in **config.json**.
+6. Run **Setup.py** with [Python.](https://www.python.org "Python")
+7. Run **Start.py** with [Python.](https://www.python.org "Python")
 
 #### MAKE SURE YOU HAVE [PYTHON INSTALLED TO PATH!](https://datatofish.com/add-python-to-windows-path)
-#### YOU NEED TO HAVE SALAD.IO INSTALLED TO MINE WITH SALAD CLI+!
 
 
 ## How to setup the config.json?
@@ -45,11 +44,14 @@ Salad: https://github.com/SaladTechnologies/salad-applications
 	* **Double click** on the **Content** in the `Salad.Authentication` folder.
 	* Right click, and copy!
 
-#### If you need more help finding your Salad Auth, dm Walkx#0069 or SharkOfGod#8424 on discord!
+#### If you need more help finding your Salad Auth, dm Walkx#0069 on discord!
+#### If you get an error about your AUTH code check the [COMMON BUGS](https://github.com/Walker21390/SaladCLI_Plus/blob/main/CommonBugs.md) page.
 
 
 ## How to find your Wallet Address?
-* Open salad.io and start mining, wait 30 seconds and then close salad.
+* Completely close Salad if it's running.
+* Re-open Salad and start mining for 1 minute.
+* Your Wallet should now have appeared in the logs!
 
 * Open your salad logs.
 	+ Press ` win+r` on your keyboard or launch `run` via windows search.
@@ -63,4 +65,6 @@ Salad: https://github.com/SaladTechnologies/salad-applications
 		
 		- Copy this code and boom, you have your wallet address!
 		
-#### If you need more help finding your WalletAddress, dm Walkx#0069 or SharkOfGod#8424 on discord!
+#### If you need more help finding your Wallet Address, dm Walkx#0069 on discord!
+
+## If you get any errors / problems check the [COMMON BUGS](https://github.com/Walker21390/SaladCLI_Plus/blob/main/CommonBugs.md) page. If you need more help please dm Walkx#0069 on Discord.

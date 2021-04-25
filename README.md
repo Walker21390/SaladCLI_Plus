@@ -9,7 +9,7 @@
 
 # Info
 
-![](https://walkyltd.xyz/assets/Salad-Cli+.png)
+![](https://walkyltd.xyz/assets/Salad-Cli+.png?size=50)
 
 Salad CLI+ increases your [salad](https://github.com/SaladTechnologies/salad-applications "salad") earnings by using different pools and optimzation scripts!
 

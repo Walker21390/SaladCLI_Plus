@@ -50,9 +50,9 @@ Salad: https://github.com/SaladTechnologies/salad-applications
 
 ## How to find your Wallet Address?
 * Refresh salad logs
-1. Completely close Salad if it's running.
-2. Re-open Salad and start mining for 1 minute.
-3. Your Wallet should now have appeared in the logs!
+	+ Completely close Salad if it's running.
+	+ Re-open Salad and start mining for 1 minute.
+	+ Your Wallet should now have appeared in the logs!
 
 * Open your salad logs.
 	+ Press ` win+r` on your keyboard or launch `run` via windows search.

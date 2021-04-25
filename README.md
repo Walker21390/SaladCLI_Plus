@@ -11,7 +11,7 @@
 
 ![](https://i.imgur.com/CpeBkm7.png?size=300)
 
-Salad CLI+ increases your [salad](https://github.com/SaladTechnologies/salad-applications "salad") earnings by using different pools and optimization scripts!
+Salad CLI+ can increase your [salad](https://github.com/SaladTechnologies/salad-applications "salad") earnings by using different pools and optimization scripts!
 
 Salad: https://github.com/SaladTechnologies/salad-applications
 

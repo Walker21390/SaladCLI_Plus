@@ -3,7 +3,7 @@
 ![](https://img.shields.io/github/stars/Walker21390/SaladCLI_Plus.svg) ![](https://img.shields.io/github/forks/Walker21390/SaladCLI_Plus.svg) ![](https://img.shields.io/github/tag/Walker21390/SaladCLI_Plus.svg) ![](https://img.shields.io/github/release/Walker21390/SaladCLI_Plus.svg) ![](https://img.shields.io/github/issues/Walker21390/SaladCLI_Plus.svg) ![](https://img.shields.io/github/license/Walker21390/SaladCLI_Plus.svg)
 
 
-#### Support me and use code `01SE1X` on Salad.io!
+#### Support me and use code `01SE1X` on Salad!
 
 
 ## [BUG / ERROR FIXES](https://github.com/Walker21390/SaladCLI_Plus/blob/main/CommonBugs.md)

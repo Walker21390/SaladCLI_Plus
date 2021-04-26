@@ -13,11 +13,11 @@
 
 
 ## The start.py immediately closes after launching:
-- Make sure you run the setup.py first!
+- Make sure you run the setup.bat first!
 
 
 
-## The setup.py immediately closes after launching or gives an error:
+## The setup.bat immediately closes after launching or gives an error:
 - Make sure you have python installed to PATH! https://datatofish.com/add-python-to-windows-path/
 
 

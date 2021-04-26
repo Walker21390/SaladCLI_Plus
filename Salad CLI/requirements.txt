@@ -1,0 +1,3 @@
+python-dateutil==2.8.1
+requests==2.25.1
+pyperclip==1.8.2

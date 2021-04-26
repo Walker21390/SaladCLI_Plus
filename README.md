@@ -24,7 +24,7 @@ Salad: https://github.com/SaladTechnologies/salad-applications
 3. Rename **example-config.json** to **config.json**.
 4. Replace "Your AUTH here" with your AUTH code code in **config.json**.
 5. Replace "Your Wallet here" with your Salad Wallet in **config.json**.
-6. Run **Setup.py** with [Python.](https://www.python.org "Python")
+6. Run **Setup..bat**.
 7. Run **Start.py** with [Python.](https://www.python.org "Python")
 
 #### MAKE SURE YOU HAVE [PYTHON INSTALLED TO PATH!](https://datatofish.com/add-python-to-windows-path)

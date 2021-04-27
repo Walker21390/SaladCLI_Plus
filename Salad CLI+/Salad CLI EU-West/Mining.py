@@ -6,7 +6,7 @@ from time import sleep
 import json
 import subprocess
 
-with open('/../config.json') as f:
+with open('config.json') as f:
     js = json.load(f)
 wallet = js['wallet']
 

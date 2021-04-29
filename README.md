@@ -7,6 +7,7 @@
 
 
 ## [BUG / ERROR FIXES](https://github.com/Walker21390/SaladCLI_Plus/blob/main/CommonBugs.md)
+## [SUPPORT DISCORD SERVER](https://discord.gg/D2VBbJDz8c)
 
 # Info
 
@@ -42,7 +43,7 @@ Salad: https://github.com/SaladTechnologies/salad-applications
 	* Open the `app-api.salad.io` folder.
 	* Open the `Cookies` folder.
 	* Click on `Salad.Authentication`.
-	* **Double click** on the **Content** in the `Salad.Authentication` folder.
+	* **Right-Click** on the **Content** in the `Salad.Authentication` folder and click **Select-all**.
 	* Right click, and copy!
 
 #### If you need more help finding your Salad Auth, dm Walkx#0069 on discord!

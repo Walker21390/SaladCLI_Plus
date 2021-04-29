@@ -6,9 +6,10 @@
 
 
 ## Salad AUTH code error when launching the start.py:
-- Check the length of your code, if your code looks like `abcdefghjijklmnopqrstuvzxyz` try re-copying your code!
-
-- If your code looks like `abcdefghjijklmnopqrstuvzxyzabcdefghjijklmnopqrstuvzxyzabcdefghjijklmnopqrstuvzxyzabcdefghjijklmnopqrstuvzxyzabcdefghjijklmnopqrstuvzxyzabcdefghjijklmnopqrstuvzxyzabcdefghjijklmnopqrstuvzxyzabcdefghjijklmnopqrstuvzxyzabcdefghjijklmnopqrstuvzxyzabcdefghjijklmnopqrstuvzxyzabcdefghjijklmnopqrstuvzxyzabcdefghjijklmnopqrstuvzxyzabcdefghjijklmnopqrstuvzxyzabcdefghjijklmnopqrstuvzxyzabcdefghjijklmnopqrstuvzxyzabcdefghjijklmnopqrstuvzxyzabcdefghjijklmnopqrstuvzxyzabcdefghjijklmnopqrstuvzxyzabcdefghjijklmnopqrstuvzxyzabcdefghjijklmnopqrstuvzxyzabcdefghjijklmnopqrstuvzxyzabcdefghjijklmnopqrstuvzxyzabcdefghjijklmnopqrstuvzxyzabcdefghjijklmnopqrstuvzxyzabcdefghjijklmnopqrstuvzxyzabcdefghjijklmnopqrstuvzxyzabcdefghjijklmnopqrstuvzxyzabcdefghjijklmnopqrstuvzxyzabcdefghjijklmnopqrstuvzxyzabcdefghjijklmnopqrstuvzxyzabcdefghjijklmnopqrstuvzxyzabcdefghjijklmnopqrstuvzxyz` try refreshing the app.salad.io page and re-copy your code!
+* Your auth code should be about 600 characters.
+- Refresh the browser / use another browser.
+- Right-click the auth code in the cookies and click **select-all**. Try copying it again.
+- Re-login to app.salad.io
 
 
 
@@ -23,4 +24,4 @@
 
 
 ## I'm on linux and it doesn't work, how can i mine?:
-- DM me on discord! Walkx#0069
+- Download the linux version! https://walkyltd.xyz/saladcli/saladclilinux/

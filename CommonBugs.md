@@ -3,6 +3,11 @@
 
 - Try another browser.
 
+## Cannot find 'wallet'
+- Refresh salad logs
+- Completely close Salad if it's running.
+- Re-open Salad and start mining for 1 minute.
+- Your Wallet should now have appeared in the logs!
 
 
 ## Salad AUTH code error when launching the start.py:

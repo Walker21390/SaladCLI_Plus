@@ -7,7 +7,7 @@
 
 
 ## [BUG / ERROR FIXES](https://github.com/Walker21390/SaladCLI_Plus/blob/main/CommonBugs.md)
-## [SUPPORT DISCORD SERVER](https://discord.gg/D2VBbJDz8c)
+## [SUPPORT DISCORD SERVER](https://discord.gg/D2VBbJDz8c) [Salad CLI+ FORUM](https://saladcommunity.xyz/t/salad-cli)
 
 # Info
 

@@ -24,4 +24,4 @@ with open('data.json', 'w+') as f:
 print('Downloading data...')
 time.sleep(2)
 
-os.system('py "History_show.py" --asd -f data.json --smh -min -rev')
+os.system('python "History_show.py" --asd -f data.json --smh -min -rev')

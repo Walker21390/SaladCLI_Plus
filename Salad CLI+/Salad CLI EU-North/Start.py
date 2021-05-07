@@ -62,7 +62,7 @@ if select == "3" or select == "XP":
     os.system('python XP.py')
 
 if select == "4" or select == "Earning History":
-    os.system('py salad_earnings_update.py')
+    os.system('python salad_earnings_update.py')
 
 if select == "5" or select == "Copy Referral Code":
     pyperclip.copy('Join me on Salad and use code ' +
@@ -70,9 +70,9 @@ if select == "5" or select == "Copy Referral Code":
     print('Code copied to clipboard!')
 
 if select == "6" or select == "Start mining":
-    os.system('py Mining.py')
+    os.system('python Mining.py')
 
 if select == "7" or select == "Salad store":
     webbrowser.open('http://app.salad.io')
 time.sleep(2)
-os.system('py Start.py')
+os.system('python Start.py')

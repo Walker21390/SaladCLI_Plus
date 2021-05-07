@@ -69,4 +69,4 @@ if select == "9" or select == "Trex kawpow":
 if select == "9" or select == "Return":
     print("Quitting...")
     time.sleep(1)
-    os.system("py Start.py")
+    os.system("python Start.py")
